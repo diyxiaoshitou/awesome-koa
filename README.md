@@ -87,6 +87,7 @@
 - [koa-timer](https://github.com/koajs/timer) - time your middleware
 - [koa-accesslog](https://github.com/koajs/accesslog) - Middleware for common log format access logs
 - [koa-trace](https://github.com/koajs/trace) - generic tracing for koa
+- [koa-pino-logger](https://github.com/pinojs/koa-pino-logger) - pino logging koa middleware
 
 ### Locale
 - [koa-locales](https://github.com/koajs/locales) - koa locales, i18n solution for koa
