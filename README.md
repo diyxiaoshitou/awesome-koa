@@ -143,8 +143,8 @@
 - [todo](https://github.com/koajs/todo) - a todo example write with koa and react
 
 ## Document
+- [Koa2进阶学习笔记](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结
 - [koa中文文档](https://github.com/guo-yu/koa-guide) - koa guide in Chinese
-- [Koa2进阶学习笔记](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》持续更新...
 - [koa-generator-examples](https://github.com/17koa/koa-generator-examples) - 一起学koa 
 - [koa-book](https://github.com/minghe/koa-book) - koa.js实战
 - [php-co-koa](https://github.com/youzan/php-co-koa) - PHP异步编程: 手把手教你实现co与Koa
