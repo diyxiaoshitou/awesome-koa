@@ -2,12 +2,13 @@
 
 ## Framework
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa --From 阿里
-- [strapi](https://github.com/strapi/strapi) - Node.js Content Management Framework (headless-CMS) to build powerful API with no effort. 
+- [strapi](https://github.com/strapi/strapi) - Node.js Content Management Framework (headless-CMS) to build powerful API with no effort. --From `Strapi Solutions`
 - [Lad](https://github.com/ladjs/lad) - Lad scaffolds a Koa webapp and API framework for Node.js
 - [Gracejs](https://github.com/xiongwilee/Gracejs) - A Nodejs SFB(Separation of Front and Back ends) framework, build with koa2（基于koa2的标准前后端分离框架）--From 趣店
-- [koahub](https://github.com/koahubjs/koahub) - KoaHub.js -- 中文最佳实践Node.js Web快速开发框架
 - [plover](https://github.com/alibaba/plover) - 专注于模块化的NodeJs Web框架 --From 阿里
 - [zan-node](https://github.com/youzan/zan-node) - Zan is a Nodejs SFB(Separation of Front and Back ends) framework, built on koa2. --From 有赞
+- [Doodoo.js](https://github.com/doodooke/doodoo.js) - 中文最佳实践Node.js Web快速开发框架，支持Koa.js, Express.js中间件 --From 多多客
+
 ## Middleware
 
 ### Router & Validate
