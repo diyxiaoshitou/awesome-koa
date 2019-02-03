@@ -11,7 +11,7 @@
 ## Middleware
 
 ### Router & Validate
-- [koa-router](https://github.com/alexmingoia/koa-router) - Router middleware for koa.
+- [koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
 - [koa-route](https://github.com/koajs/route) - Simple route middleware
 - [koa-restql](https://github.com/Meituan-Dianping/koa-restql) - Build real RESTful APIs without writing one line of code.
 - [koa-validate](https://github.com/RocksonZeta/koa-validate) - validate koa request params and format request params
