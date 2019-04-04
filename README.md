@@ -109,6 +109,11 @@
 ### GraphQL
 - [koa-graphql](https://github.com/chentsulin/koa-graphql) - Create a GraphQL HTTP server with Koa.
 
+### Swagger
+- [koa-swagger-decorator](https://github.com/Cody2333/koa-swagger-decorator) - using decorator to automatically generate swagger doc for koa-router
+- [swagger2-koa](https://github.com/carlansley/swagger2-koa) - Koa 2 middleware for swagger2
+- [swagger-koa](https://github.com/janvotava/swagger-koa) - Swagger + Koa = {swagger-koa} https://github.com/cyner/swagger-koa
+
 ### Others
 - [koa-compose](https://github.com/koajs/compose) - Middleware composition utility
 - [koa-mount](https://github.com/koajs/mount) - Mount other Koa applications or middleware to a given pathname
@@ -117,6 +122,7 @@
 - [koa-ctx-paginate](https://github.com/koajs/ctx-paginate) - Augments Koa with ctx.paginate (forked from `express-paginate`)
 
 ## Boilerplate
+- [koa-rest-api-boilerplate](https://github.com/posquit0/koa-rest-api-boilerplate) - Boilerplate for Node.js Koa RESTful API application with Docker, Swagger, Jest, Coveralls and CircleCI
 - [koan](https://github.com/soygul/koan) - KOAN (Koa, Angular, Node, Mongo) starter kit for full-stack JavaScript web development.
 - [koa-generator](https://github.com/17koa/koa-generator) - Koa' application generator for 1.x and 2.x（ Express-style and support all middlewares include async/await ）
 - [koa-boiler](https://github.com/llambda/koa-boiler) - Koa 2.3 boilerplate for a production-ready Node.js app. Now with async/await!
