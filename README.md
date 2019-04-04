@@ -9,6 +9,9 @@
 - [zan-node](https://github.com/youzan/zan-node) - Zan is a Nodejs SFB(Separation of Front and Back ends) framework, built on koa2. --From 有赞
 - [Doodoo.js](https://github.com/doodooke/doodoo.js) - 中文最佳实践Node.js Web快速开发框架，支持Koa.js, Express.js中间件 --From 多多客
 
+## Typescript
+- [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
+
 ## Middleware
 
 ### Router & Validate
