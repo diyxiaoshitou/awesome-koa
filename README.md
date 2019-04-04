@@ -22,6 +22,11 @@
 - [koa-path-match](https://github.com/koajs/path-match) - koa route middleware
 - [koa-rewrite](https://github.com/koajs/rewrite) - URL rewriting middleware
 
+### Swagger
+- [koa-swagger-decorator](https://github.com/Cody2333/koa-swagger-decorator) - using decorator to automatically generate swagger doc for koa-router
+- [swagger2-koa](https://github.com/carlansley/swagger2-koa) - Koa 2 middleware for swagger2
+- [swagger-koa](https://github.com/janvotava/swagger-koa) - Swagger + Koa = {swagger-koa} https://github.com/cyner/swagger-koa
+
 ### Body Parser
 - [koa-bodyparser](https://github.com/koajs/bodyparser) - a body parser for koa
 - [koa-body](https://github.com/dlau/koa-body) - koa body parser middleware
@@ -109,11 +114,6 @@
 
 ### GraphQL
 - [koa-graphql](https://github.com/chentsulin/koa-graphql) - Create a GraphQL HTTP server with Koa.
-
-### Swagger
-- [koa-swagger-decorator](https://github.com/Cody2333/koa-swagger-decorator) - using decorator to automatically generate swagger doc for koa-router
-- [swagger2-koa](https://github.com/carlansley/swagger2-koa) - Koa 2 middleware for swagger2
-- [swagger-koa](https://github.com/janvotava/swagger-koa) - Swagger + Koa = {swagger-koa} https://github.com/cyner/swagger-koa
 
 ### Others
 - [koa-compose](https://github.com/koajs/compose) - Middleware composition utility
