@@ -11,6 +11,8 @@
 
 ## Typescript
 - [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
+- [node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Valuable README
+- [koa-typescript-starter](https://github.com/Enterprise-JS/koa-typescript-starter) - Starter Project with KoaJS Web Applicaton Server and Typescript from [here](https://medium.com/netscape/start-building-web-apps-with-koajs-and-typescript-366264dec608)
 
 ## Middleware
 
