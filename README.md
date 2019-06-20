@@ -2,6 +2,7 @@
 
 ## Framework
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa --From 阿里
+- [midway](https://github.com/midwayjs/midway) - A future-oriented web framework based on IoC and use Typescript to Improve the efficiency of full stack application development --From 阿里 
 - [strapi](https://github.com/strapi/strapi) - Node.js Content Management Framework (headless-CMS) to build powerful API with no effort. --From `Strapi Solutions`
 - [Lad](https://github.com/ladjs/lad) - Lad scaffolds a Koa webapp and API framework for Node.js
 - [Gracejs](https://github.com/xiongwilee/Gracejs) - A Nodejs SFB(Separation of Front and Back ends) framework, build with koa2（基于koa2的标准前后端分离框架）--From 趣店
