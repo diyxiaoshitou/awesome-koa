@@ -21,6 +21,7 @@
 - [koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
 - [egg-router](https://github.com/eggjs/egg-router) - router for eggjs, fork from koa-router with some additional features
 - [koa-route](https://github.com/koajs/route) - Simple route middleware
+- [koa-json-rpc](https://github.com/koalex/koa-json-rpc) - JSON-RPC 2.0 middleware which implements the [https://www.jsonrpc.org/specification](https://www.jsonrpc.org/specification)
 - [koa-restql](https://github.com/Meituan-Dianping/koa-restql) - Build real RESTful APIs without writing one line of code.
 - [koa-validate](https://github.com/RocksonZeta/koa-validate) - validate koa request params and format request params
 - [koa-joi-router](https://github.com/koajs/joi-router) - Configurable, input and output validated routing for koa
